@@ -10,12 +10,12 @@ The Jersey Shore Area School District sits at the gateway to the Pennsylvania Wi
 [View full list of repositories](https://github.com/orgs/JSASD/repositories)
 
 1. Ruckus WLAN Configurator: [JSASD/Ruckus-WLAN-Configurator](https://github.com/JSASD/Ruckus-WLAN-Configurator)
- - Configuration script tool for configuration of Ruckus Wireless WLAN settings using the Virtual SmartZone REST API
-3. Wordpress-Docker: [JSASD/wordpress-docker](https://github.com/JSASD/wordpress-docker)
-  - Containerized WordPress for running the School District's digital signage
-5. JS-Drumline: [JSASD/js-drumline](https://github.com/JSASD/js-drumline)
-  - Static website hosted on GitHub Pages for the Jersey Shore Marching Band Drumline, generated using [Hugo](https://gohugo.io)
-  - Dut.
+   - Configuration script tool for configuration of Ruckus Wireless WLAN settings using the Virtual SmartZone REST API
+1. Wordpress-Docker: [JSASD/wordpress-docker](https://github.com/JSASD/wordpress-docker)
+   - Containerized WordPress for running the School District's digital signage
+1. JS-Drumline: [JSASD/js-drumline](https://github.com/JSASD/js-drumline)
+   - Static website hosted on GitHub Pages for the Jersey Shore Marching Band Drumline, generated using [Hugo](https://gohugo.io)
+   - Dut.
 
 
 ## Socials 🐧
