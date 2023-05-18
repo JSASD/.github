@@ -1,4 +1,4 @@
-# Jersey Shore Area School District
+# Jersey Shore Area School District 🌟
 Welcome to the JSASD GitHub page! This GitHub organization is where the Technology Department puts up any projects or scripts we use. Feel free to browse around :)
 
 
