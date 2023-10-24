@@ -23,4 +23,4 @@ We have social media! Check them out:
  - [District Website](https://www.jsasd.org/)
  - [LinkedIn](https://www.linkedin.com/company/jsasd/)
  - [Facebook](https://www.facebook.com/jsasd)
- - [Twitter](https://twitter.com/JSASDSchools)
+ - [X](https://x.com/JSASDSchools)
